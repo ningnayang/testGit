@@ -1,0 +1,10 @@
+<?php
+
+
+echo "something";
+
+echo "anything";
+
+echo "test";
+
+echo "Ëæ±ã";
